@@ -1,0 +1,1 @@
+# plugnative-cordova-smsreader
